@@ -1,0 +1,5 @@
+Path	Symbol	Reason
+LUC_web\4边形4节点单元有限元计算\solveK.m	syms	undeployable
+LUC_web\4边形4节点单元有限元计算\solveK.m	sym	undeployable
+LUC_web\4边形4节点单元有限元计算\solveP.m	syms	undeployable
+LUC_web\4边形4节点单元有限元计算\solveP.m	subs	undeployable
